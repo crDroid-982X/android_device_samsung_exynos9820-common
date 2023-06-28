@@ -263,18 +263,6 @@
             "Value": "0x00069b68"
         },
         {
-            "PowerHint": "EXPENSIVE_RENDERING",
-            "Node": "GPUMinFreq",
-            "Duration": 0,
-            "Value": "0x0008ba60"
-        },
-        {
-            "PowerHint": "EXPENSIVE_RENDERING",
-            "Node": "GPUMaxFreq",
-            "Duration": 0,
-            "Value": "0x000ab630"
-        },
-        {
             "PowerHint": "INTERACTIVE",
             "Node": "TouchscreenEnable",
             "Duration": 0,
